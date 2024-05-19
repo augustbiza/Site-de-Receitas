@@ -62,6 +62,15 @@ html{
     border-radius: 4px;
 }
 
+.sugestao a {
+    display: inline-block;
+}
+  
+.sugestao img {
+    max-width: 100%;
+    height: auto;
+}
+
 .container .carousel-sugestoes{
     grid-row: 2;
 }
