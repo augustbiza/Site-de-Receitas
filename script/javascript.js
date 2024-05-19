@@ -22,3 +22,5 @@ async function carregarReceitas()
 }
 
 window.onload = carregarReceitas
+
+
