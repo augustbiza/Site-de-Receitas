@@ -2708,7 +2708,7 @@ window.addEventListener('load', function() {
     }
     this.localStorage.getItem("user") ? null : this.localStorage.setItem("user",JSON.stringify(user))
     // Exemplo de uso:
-    var idProcurado = "27";
+    var idProcurado = "12";
     var receitaEncontrada = encontrarReceitaPorId(idProcurado);
     if (receitaEncontrada) {
         console.log("Receita encontrada:", receitaEncontrada);
