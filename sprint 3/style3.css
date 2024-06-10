@@ -25,6 +25,18 @@ h1 {
     margin-top: 20px; /* Adiciona espaço entre a imagem e o texto */
 }
 
+.comida{
+    display: flex;
+    align-items: start;
+}
+
+.comida button{
+    background: linear-gradient(to bottom, #F9B83A 65%, #D49927 65%, #D49927 100%);
+    padding: 12px;
+    border-radius: 8px;
+    border: 0;
+}
+
 .comida img {
     width: 700px; /* Defina a largura desejada */
     height: auto; /* Mantenha a proporção de aspecto */

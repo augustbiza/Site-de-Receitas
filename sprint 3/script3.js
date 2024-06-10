@@ -2699,8 +2699,16 @@ function exibirReceitas() {
 
 // Chama a função exibirReceitas quando a página é totalmente carregada
 window.addEventListener('load', function() {
+    const user = {
+        id: 1, 
+        nome: "ana",
+        email: "anabanana@gmail.com",
+        senha: "12345",
+        feitos:[]
+    }
+    this.localStorage.getItem("user") ? null : this.localStorage.setItem("user",JSON.stringify(user))
     // Exemplo de uso:
-    var idProcurado = "1";
+    var idProcurado = "27";
     var receitaEncontrada = encontrarReceitaPorId(idProcurado);
     if (receitaEncontrada) {
         console.log("Receita encontrada:", receitaEncontrada);
@@ -2719,7 +2727,7 @@ function exibirReceitasPorId(id) {
 
         receitaEncontradaDiv.innerHTML += "<h1>Receita Encontrada</h1>";
         receitaEncontradaDiv.innerHTML += "<h2>" + receitaEncontrada.titulo + "</h2>";
-        receitaEncontradaDiv.innerHTML += "<div class='comida'><img src='" + receitaEncontrada.imagem + "' alt=''></div>"; // Aqui a imagem é adicionada dinamicamente
+        receitaEncontradaDiv.innerHTML += "<div class='comida'><img src='" + receitaEncontrada.imagem + "' alt=''><button class='concluido'>Feito</button></div>"; // Aqui a imagem é adicionada dinamicamente
         receitaEncontradaDiv.innerHTML += "<h1>Tempo: " + receitaEncontrada.tempo + " - Rendimento: " + receitaEncontrada.rendimento + " - Dificuldade: " + receitaEncontrada.dificuldade + "</h1>";
 
         var tituloIngredientes = document.createElement("h2");
@@ -2746,13 +2754,15 @@ function exibirReceitasPorId(id) {
 
         document.body.appendChild(receitaEncontradaDiv);
 
-        // Remove o elemento "Receita Encontrada" após alguns segundos (opcional)
-        setTimeout(function() {
-            receitaEncontradaDiv.parentNode.removeChild(receitaEncontradaDiv);
-        }, 5000); // Remove após 5 segundos (ajuste conforme necessário)
+        const buttonFeito = document.querySelector(".concluido")
+        buttonFeito.onclick = () => {
+            let user = localStorage.getItem ("user")
+            user = JSON.parse(user)
+            user.feitos.push(id)
+            localStorage.setItem ("user", JSON.stringify(user))
+        }
+
     } else {
         console.log("Receita com ID", id, "não encontrada.");
     }
 }
-
-exibirReceitas(); // Chama a função exibirReceitas apenas uma vez, aqui
