@@ -6,7 +6,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/carne com batatas.png", 
+        imagem: "Img/carne com batatas.png",
         ingredientes: [
             {
                 "quantidade": "4",
@@ -49,7 +49,7 @@ var receitas = [
         tempo: "6h30",
         rendimento: "8",
         dificuldade: "média",
-        imagem: "Img/tortaholandesa.png", 
+        imagem: "Img/tortaholandesa.png",
         ingredientes: [
             {
                 "quantidade": "1 pacote de",
@@ -107,7 +107,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "8",
         dificuldade: "média",
-        imagem: "Img/bacalhaucombatatas.png", 
+        imagem: "Img/bacalhaucombatatas.png",
         ingredientes: [
             {
                 "quantidade": "400g de",
@@ -179,7 +179,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "8",
         dificuldade: "fácil",
-        imagem: "Img/brigadeirodecolher.png", 
+        imagem: "Img/brigadeirodecolher.png",
         ingredientes: [
             {
                 "quantidade": "1 lata de",
@@ -208,7 +208,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/peixe com vegetais.png", 
+        imagem: "Img/peixe com vegetais.png",
         ingredientes: [
             {
                 "quantidade": "4 filés de",
@@ -253,7 +253,7 @@ var receitas = [
         tempo: "2h",
         rendimento: "6",
         dificuldade: "média",
-        imagem: "Img/tiramisu.png", 
+        imagem: "Img/tiramisu.png",
         ingredientes: [
             {
                 "quantidade": "100ml de",
@@ -299,7 +299,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "2",
         dificuldade: "fácil",
-        imagem: "Img/wafflesbananaaveia.png", 
+        imagem: "Img/wafflesbananaaveia.png",
         ingredientes: [
             {
                 "quantidade": "1",
@@ -345,7 +345,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "6",
         dificuldade: "média",
-        imagem: "Img/tortalimao.png", 
+        imagem: "Img/tortalimao.png",
         ingredientes: [
             {
                 "quantidade": "2 xícaras de",
@@ -405,7 +405,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "2",
         dificuldade: "média",
-        imagem: "Img/tilapiacalcaparra.png", 
+        imagem: "Img/tilapiacalcaparra.png",
         ingredientes: [
             {
                 "quantidade": "2 filés de",
@@ -460,7 +460,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "4",
         dificuldade: "média",
-        imagem: "Img/parmegiana.png", 
+        imagem: "Img/parmegiana.png",
         ingredientes: [
             {
                 "quantidade": "4",
@@ -527,7 +527,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "4",
         dificuldade: "média",
-        imagem: "Img/feijaotropeiro.png", 
+        imagem: "Img/feijaotropeiro.png",
         ingredientes: [
             {
                 "quantidade": "50g de",
@@ -595,7 +595,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/farofa.png", 
+        imagem: "Img/farofa.png",
         ingredientes: [
             {
                 "quantidade": "1/2",
@@ -657,7 +657,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/bacalhauz.png", 
+        imagem: "Img/bacalhauz.png",
         ingredientes: [
             {
                 "quantidade": "",
@@ -722,7 +722,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "6",
         dificuldade: "fácil",
-        imagem: "Img/ovodepascoa.png", 
+        imagem: "Img/ovodepascoa.png",
         ingredientes: [
             {
                 "quantidade": "2",
@@ -777,7 +777,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "12",
         dificuldade: "fácil",
-        imagem: "Img/bolopaodemel.png", 
+        imagem: "Img/bolopaodemel.png",
         ingredientes: [
             {
                 "quantidade": "4",
@@ -847,7 +847,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/filedepeixe.png", 
+        imagem: "Img/filedepeixe.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -901,7 +901,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "6",
         dificuldade: "fácil",
-        imagem: "Img/bacalhaubraz.png", 
+        imagem: "Img/bacalhaubraz.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -955,7 +955,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/tortaa.png", 
+        imagem: "Img/tortaa.png",
         ingredientes: [
             {
                 "quantidade": "2",
@@ -1024,7 +1024,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "6",
         dificuldade: "média",
-        imagem: "Img/feijoadavegetariana.png", 
+        imagem: "Img/feijoadavegetariana.png",
         ingredientes: [
             {
                 "quantidade": "2 xícaras de",
@@ -1103,7 +1103,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "média",
-        imagem: "Img/espetos.png", 
+        imagem: "Img/espetos.png",
         ingredientes: [
             {
                 "quantidade": "400g de",
@@ -1177,7 +1177,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/churrasco.png", 
+        imagem: "Img/churrasco.png",
         ingredientes: [
             {
                 "quantidade": "4 filés de",
@@ -1230,7 +1230,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "8",
         dificuldade: "fácil",
-        imagem: "Img/picanhaalho.png", 
+        imagem: "Img/picanhaalho.png",
         ingredientes: [
             {
                 "quantidade": "1 peça de",
@@ -1269,7 +1269,7 @@ var receitas = [
         tempo: "35min",
         rendimento: "10",
         dificuldade: "fácil",
-        imagem: "Img/feijoadavegana.png", 
+        imagem: "Img/feijoadavegana.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -1327,7 +1327,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "10",
         dificuldade: "fácil",
-        imagem: "Img/feijoadaleve.png", 
+        imagem: "Img/feijoadaleve.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -1380,7 +1380,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "8",
         dificuldade: "fácil",
-        imagem: "Img/arrozdechurasco.png", 
+        imagem: "Img/arrozdechurasco.png",
         ingredientes: [
             {
                 "quantidade": "2 xícaras de",
@@ -1432,7 +1432,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "10",
         dificuldade: "fácil",
-        imagem: "Img/maionesedealho.png", 
+        imagem: "Img/maionesedealho.png",
         ingredientes: [
             {
                 "quantidade": "1",
@@ -1474,7 +1474,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "6",
         dificuldade: "fácil",
-        imagem: "Img/salada.png", 
+        imagem: "Img/salada.png",
         ingredientes: [
             {
                 "quantidade": "2",
@@ -1524,7 +1524,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "15",
         dificuldade: "fácil",
-        imagem: "Img/sorveteflocos.png", 
+        imagem: "Img/sorveteflocos.png",
         ingredientes: [
             {
                 "quantidade": "1 e 1/2 xícara de",
@@ -1555,7 +1555,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "8",
         dificuldade: "fácil",
-        imagem: "Img/carnerecheada.png", 
+        imagem: "Img/carnerecheada.png",
         ingredientes: [
             {
                 "quantidade": "1 peça de",
@@ -1594,7 +1594,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "4",
         dificuldade: "média",
-        imagem: "Img/lombosuino.png", 
+        imagem: "Img/lombosuino.png",
         ingredientes: [
             {
                 "quantidade": "1 peça de",
@@ -1652,7 +1652,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "10",
         dificuldade: "fácil",
-        imagem: "Img/doceleitevegano.png", 
+        imagem: "Img/doceleitevegano.png",
         ingredientes: [
             {
                 "quantidade": "500g de polpa de",
@@ -1686,7 +1686,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "10",
         dificuldade: "fácil",
-        imagem: "Img/bolocenoura.png", 
+        imagem: "Img/bolocenoura.png",
         ingredientes: [
             {
                 "quantidade": "2",
@@ -1729,7 +1729,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "2",
         dificuldade: "fácil",
-        imagem: "Img/chipsbanana.png", 
+        imagem: "Img/chipsbanana.png",
         ingredientes: [
             {
                 "quantidade": "1",
@@ -1760,7 +1760,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/carnecebola.png", 
+        imagem: "Img/carnecebola.png",
         ingredientes: [
             {
                 "quantidade": "1kg de",
@@ -1818,7 +1818,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/paodequeijovegano.png", 
+        imagem: "Img/paodequeijovegano.png",
         ingredientes: [
             {
                 "quantidade": "3",
@@ -1863,7 +1863,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/paodealho.png", 
+        imagem: "Img/paodealho.png",
         ingredientes: [
             {
                 "quantidade": "1 peça de",
@@ -1916,7 +1916,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/bacalhaubolinha.png", 
+        imagem: "Img/bacalhaubolinha.png",
         ingredientes: [
             {
                 "quantidade": "900g de",
@@ -1962,7 +1962,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/paoalhoqueijo.png", 
+        imagem: "Img/paoalhoqueijo.png",
         ingredientes: [
             {
                 "quantidade": "200g de",
@@ -2007,7 +2007,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "4",
         dificuldade: "fácil",
-        imagem: "Img/filemignon.png", 
+        imagem: "Img/filemignon.png",
         ingredientes: [
             {
                 "quantidade": "1kg de",
@@ -2062,7 +2062,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "12",
         dificuldade: "fácil",
-        imagem: "Img/cremeavela.png", 
+        imagem: "Img/cremeavela.png",
         ingredientes: [
             {
                 "quantidade": "150g de",
@@ -2092,7 +2092,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "15",
         dificuldade: "fácil",
-        imagem: "Img/barbecue.png", 
+        imagem: "Img/barbecue.png",
         ingredientes: [
             {
                 "quantidade": "1 colher de sopa de",
@@ -2151,7 +2151,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "1",
         dificuldade: "fácil",
-        imagem: "Img/pizza.png", 
+        imagem: "Img/pizza.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -2218,7 +2218,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "1",
         dificuldade: "fácil",
-        imagem: "Img/ravioli.png", 
+        imagem: "Img/ravioli.png",
         ingredientes: [
             {
                 "quantidade": "1 pacote de",
@@ -2243,7 +2243,7 @@ var receitas = [
         tempo: "50min",
         rendimento: "8",
         dificuldade: "fácil",
-        imagem: "Img/pudimleitecondensado.png", 
+        imagem: "Img/pudimleitecondensado.png",
         ingredientes: [
             {
                 "quantidade": "1 lata de",
@@ -2277,7 +2277,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "6",
         dificuldade: "média",
-        imagem: "Img/mozzarella.png", 
+        imagem: "Img/mozzarella.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -2324,7 +2324,7 @@ var receitas = [
         tempo: "1h",
         rendimento: "6",
         dificuldade: "média",
-        imagem: "Img/coxinha.png", 
+        imagem: "Img/coxinha.png",
         ingredientes: [
             {
                 "quantidade": "1l de",
@@ -2391,7 +2391,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "6",
         dificuldade: "fácil",
-        imagem: "Img/batatarustica.png", 
+        imagem: "Img/batatarustica.png",
         ingredientes: [
             {
                 "quantidade": "400g de",
@@ -2430,7 +2430,7 @@ var receitas = [
         tempo: "15min",
         rendimento: "10",
         dificuldade: "média",
-        imagem: "Img/sushi.png", 
+        imagem: "Img/sushi.png",
         ingredientes: [
             {
                 "quantidade": "500g de",
@@ -2487,7 +2487,7 @@ var receitas = [
         tempo: "45min",
         rendimento: "10",
         dificuldade: "média",
-        imagem: "Img/bolopanela.png", 
+        imagem: "Img/bolopanela.png",
         ingredientes: [
             {
                 "quantidade": "6",
@@ -2536,7 +2536,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "4",
         dificuldade: "média",
-        imagem: "Img/bolopanela.png", 
+        imagem: "Img/bolopanela.png",
         ingredientes: [
             {
                 "quantidade": "4",
@@ -2586,7 +2586,7 @@ var receitas = [
         tempo: "30min",
         rendimento: "6",
         dificuldade: "fácil",
-        imagem: "Img/paodequeijoair.png", 
+        imagem: "Img/paodequeijoair.png",
         ingredientes: [
             {
                 "quantidade": "1kg de",
@@ -2645,7 +2645,7 @@ function exibirReceitas() {
     var receitasDiv = document.createElement("div");
     receitasDiv.id = "receitas";
 
-    receitas.forEach(function(receita) {
+    receitas.forEach(function (receita) {
         var receitaDiv = document.createElement("div");
         receitaDiv.id = receita.id;
 
@@ -2664,7 +2664,7 @@ function exibirReceitas() {
         receitaDiv.innerHTML += "<h1>" + receita.titulo + "</h1>";
         receitaDiv.innerHTML += "<div class='comida'><img src='" + receita.imagem + "' alt=''></div>"; // Aqui a imagem é adicionada dinamicamente
         receitaDiv.innerHTML += "<h1>Tempo: " + receita.tempo + " - Rendimento: " + receita.rendimento + " - Dificuldade: " + receita.dificuldade + "</h1>";
-        
+
         // Adicionando o título "Ingredientes"
         var tituloIngredientes = document.createElement("h2");
         tituloIngredientes.innerText = "Ingredientes";
@@ -2673,7 +2673,7 @@ function exibirReceitas() {
         // Adicionando estilos CSS para a seção de ingredientes
         var ingredientesDiv = document.createElement("div");
         ingredientesDiv.className = "ingredientes";
-        receita.ingredientes.forEach(function(ingrediente) {
+        receita.ingredientes.forEach(function (ingrediente) {
             ingredientesDiv.innerHTML += "<p>" + ingrediente.quantidade + " " + ingrediente.ingrediente + "</p>";
         });
         receitaDiv.appendChild(ingredientesDiv);
@@ -2686,7 +2686,7 @@ function exibirReceitas() {
         // Adicionando estilos CSS para a seção de modo de preparo
         var modoPreparoDiv = document.createElement("div");
         modoPreparoDiv.className = "modo-preparo";
-        receita.modo_preparo.forEach(function(passo) {
+        receita.modo_preparo.forEach(function (passo) {
             modoPreparoDiv.innerHTML += "<p>" + passo + "</p>";
         });
         receitaDiv.appendChild(modoPreparoDiv);
@@ -2698,17 +2698,16 @@ function exibirReceitas() {
 }
 
 // Chama a função exibirReceitas quando a página é totalmente carregada
-window.addEventListener('load', function() {
+window.addEventListener('load', function () {
     const user = {
-        id: 1, 
+        id: 1,
         nome: "ana",
         email: "anabanana@gmail.com",
         senha: "12345",
-        feitos:[]
     }
-    this.localStorage.getItem("user") ? null : this.localStorage.setItem("user",JSON.stringify(user))
+    this.localStorage.getItem("user") ? null : this.localStorage.setItem("user", JSON.stringify(user))
     // Exemplo de uso:
-    var idProcurado = "12";
+    var idProcurado = "50";
     var receitaEncontrada = encontrarReceitaPorId(idProcurado);
     if (receitaEncontrada) {
         console.log("Receita encontrada:", receitaEncontrada);
@@ -2736,7 +2735,7 @@ function exibirReceitasPorId(id) {
 
         var ingredientesDiv = document.createElement("div");
         ingredientesDiv.className = "ingredientes";
-        receitaEncontrada.ingredientes.forEach(function(ingrediente) {
+        receitaEncontrada.ingredientes.forEach(function (ingrediente) {
             ingredientesDiv.innerHTML += "<p>" + ingrediente.quantidade + " " + ingrediente.ingrediente + "</p>";
         });
         receitaEncontradaDiv.appendChild(ingredientesDiv);
@@ -2747,7 +2746,7 @@ function exibirReceitasPorId(id) {
 
         var modoPreparoDiv = document.createElement("div");
         modoPreparoDiv.className = "modo-preparo";
-        receitaEncontrada.modo_preparo.forEach(function(passo) {
+        receitaEncontrada.modo_preparo.forEach(function (passo) {
             modoPreparoDiv.innerHTML += "<p>" + passo + "</p>";
         });
         receitaEncontradaDiv.appendChild(modoPreparoDiv);
@@ -2755,12 +2754,79 @@ function exibirReceitasPorId(id) {
         document.body.appendChild(receitaEncontradaDiv);
 
         const buttonFeito = document.querySelector(".concluido")
-        buttonFeito.onclick = () => {
-            let user = localStorage.getItem ("user")
-            user = JSON.parse(user)
-            user.feitos.push(id)
-            localStorage.setItem ("user", JSON.stringify(user))
-        }
+        buttonFeito.onclick = async () => {
+            let user = localStorage.getItem("user");
+            user = JSON.parse(user);
+
+            if (!user || !user.id || !id) {
+                console.error("Dados do usuário ou receita inválidos");
+                return;
+            }
+
+            const usuarioid = user.id;
+            const receitaid = id; // substitua com o ID da receita real
+            const isFavorited = await checkIfFavorited(usuarioid, receitaid);
+            console.log(isFavorited);
+
+            if (isFavorited) {
+                // Remover dos favoritos
+                await removeFavorito(isFavorited);
+            } else {
+                // Adicionar aos favoritos
+                await addFavorito(usuarioid, receitaid);
+            }
+        };
+
+        const checkIfFavorited = async (usuarioid, receitaid) => {
+            // Função para verificar se a receita já está favoritada
+            const response = await fetch(`https://d2c501fa-4177-4d7b-a69b-81eb77e71b05-00-1wjvhqjrblfl5.kirk.replit.dev/feitos?usuariosid=${usuarioid}&receitasid=${receitaid}`);
+            const data = await response.json();
+            if (data.length !== 0) {
+                return data[0].id
+            } else {
+                return false
+            }
+        };
+
+        const addFavorito = async (usuarioid, receitaid) => {
+            try {
+                const response = await fetch('https://d2c501fa-4177-4d7b-a69b-81eb77e71b05-00-1wjvhqjrblfl5.kirk.replit.dev/feitos', {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                    body: JSON.stringify({ usuariosId: usuarioid, receitasId: receitaid })
+                });
+
+                if (response.ok) {
+                    console.log("Receita adicionada aos favoritos com sucesso");
+                } else {
+                    console.error("Falha ao adicionar aos favoritos");
+                }
+            } catch (error) {
+                console.error("Erro na requisição de adicionar aos favoritos:", error);
+            }
+        };
+
+        const removeFavorito = async (favoritoId) => {
+            try {
+                const response = await fetch(`https://d2c501fa-4177-4d7b-a69b-81eb77e71b05-00-1wjvhqjrblfl5.kirk.replit.dev/feitos/${favoritoId}`, {
+                    method: 'DELETE',
+                    headers: {
+                        'Content-Type': 'application/json'
+                    },
+                });
+
+                if (response.ok) {
+                    console.log("Receita removida dos favoritos com sucesso");
+                } else {
+                    console.error("Falha ao remover dos favoritos");
+                }
+            } catch (error) {
+                console.error("Erro na requisição de remover dos favoritos:", error);
+            }
+        };
+
 
     } else {
         console.log("Receita com ID", id, "não encontrada.");

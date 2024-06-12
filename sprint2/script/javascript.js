@@ -23,6 +23,8 @@ async function carregarReceitas()
 
 window.onload = carregarReceitas*/
 
+
+
 const url = "https://d2c501fa-4177-4d7b-a69b-81eb77e71b05-00-1wjvhqjrblfl5.kirk.replit.dev/receitas?_limit=5"
 const carousel = document.querySelector(".carousel-inner")
 let slideInterval;
